@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="images/your-banner-file-name.png" width="100%">
-</p>
+
 # Clustering Penguins – Unsupervised Machine Learning
 
 ## Overview
