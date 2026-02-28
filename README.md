@@ -1,4 +1,4 @@
-
+<img src="images/linkedin_banner.png" width="100%">
 # Clustering Penguins – Unsupervised Machine Learning
 
 ## Overview
