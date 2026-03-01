@@ -59,4 +59,12 @@ Adjusted Rand Index (ARI)
 
 ---
 
-## Repository Structure
+
+1. Business Problem
+2. Dataset Description
+3. Methodology
+4. Model Used
+5. Evaluation Metrics
+6. Key Results
+7. Conclusion
+8. Future Improvements
